@@ -6,7 +6,7 @@ Airport traffic controller simulator project attempts to simulate the working of
 As seen in the diagram below, the runways cross each other so there are constraints on what runways are avaiblable when certain others are in use.
 
 ## Rules
-Airport simulation uses six runways labeled 4L, 4R, 9, 14, 15L, & 15R*
+Airport simulation uses six runways labeled 4L, 4R, 9, 14, 15L, & 15R
 - Runway 4L may be used simultaneously with 4R
 - Runway 9 may be used simultaneously with 15L
 - Runway 14 may be used simultaneously with any other runway
